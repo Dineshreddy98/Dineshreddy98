@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dineshreddy98
+- 👋 Hi, I’m @Dinesh Kumar Reddy
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT, JAVA, C Languages
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on software filed
