@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinesh Kumar Reddy
-- 👀 I’m interested in HTML, CSS, JAVASCRIPT, JAVA, C Languages
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on software filed
+- 👀 I’m good at HTML, CSS, JAVASCRIPT, JAVA, C Languages
+- 🌱 I’m currently pursuing B.E Final Year.
+- 💞️ love to work in software companies 
 - 📫 How to reach me ... dineshreddy984828@gmail.com or 8639695185
 
 <!---
