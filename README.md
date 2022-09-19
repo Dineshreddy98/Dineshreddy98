@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dinesh Kumar Reddy
 - 👀 I’m good at HTML, CSS, JAVA, C Languages
-- 🌱 I’m currently pursuing B.E Final Year.
+- 🌱 I’m Working at Sunera technology PVT LTD.
 - 💞️ love to work in software companies 
 - 📫 How to reach me ... dineshreddy984828@gmail.com or 8639695185
 
